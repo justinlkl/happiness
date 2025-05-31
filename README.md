@@ -64,12 +64,6 @@ Our dashboard features:
 * **Longitudinal Studies:** Track how happiness and sentiment evolve alongside societal changes using longitudinal computational social science studies.
 * **Ethical Frameworks:** Continuously develop and adhere to ethical guidelines for big data use, prioritizing privacy and consent.
 
-## Team Members & Contributions
-* **Research field:** Lam Ka Lim (20958318)
-* **Traditional Studies:** Leung Hiu Nam Doreen (20964161)
-* **Methods and Data:** Cheung Pak Hin (20961236)
-* **Results and interpretation:** Tse Siu Hong (20963117)
-
 ## Technologies Used (Suggested - please verify and specify)
 * Data Analysis: Python (Pandas, NumPy)
 * Sentiment Analysis: [Specify AI/NLP library used, e.g., NLTK, spaCy, Transformers, or a specific API]
