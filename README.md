@@ -64,8 +64,8 @@ Our dashboard features:
 * **Longitudinal Studies:** Track how happiness and sentiment evolve alongside societal changes using longitudinal computational social science studies.
 * **Ethical Frameworks:** Continuously develop and adhere to ethical guidelines for big data use, prioritizing privacy and consent.
 
-## Technologies Used (Suggested - please verify and specify)
+## Technologies Used 
 * Data Analysis: Python (Pandas, NumPy)
-* Sentiment Analysis: [Specify AI/NLP library used, e.g., NLTK, spaCy, Transformers, or a specific API]
-* Dashboard: Google Looker Studio (based on the URL)
+* Sentiment Analysis
+* Dashboard: Google Looker Studio
 * Data Sources: X API / Kaggle, World
