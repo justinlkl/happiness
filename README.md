@@ -8,7 +8,7 @@ We developed an interactive dashboard that combines AI-powered sentiment analysi
 
 ## Dashboard
 
-**Access the interactive Happiness Hub Dashboard here:** [https://studio--happiness-hub-o4vop.us-centrall.hosted.app](https://studio--happiness-hub-o4vop.us-centrall.hosted.app)
+**Access the interactive Happiness Hub Dashboard here:** [https://studio--happiness-hub-o4yop.us-central1.hosted.app/](https://studio--happiness-hub-o4yop.us-central1.hosted.app/)
 
 Our dashboard features:
 * Visualizations of correlations between country-level happiness scores and seven key socioeconomic factors.
@@ -33,12 +33,12 @@ Our dashboard features:
 
 ### Happiness Correlations (from World Happiness Report Data):
 * **Top Performers:** Nordic countries consistently rank high, excelling in GDP per capita, social support, healthy life expectancy, freedom, and low corruption. This suggests happiness is multidimensional.
-* **Low Performers:** Countries like Afghanistan and Lebanon show low happiness scores, correlated with poor social support, lack of freedom, and high corruption, alongside economic and health challenges.
+* **Low Performers:** Countries like Afghanistan and Lebanon show low happiness scores, which are correlated with poor social support, lack of freedom, and high corruption, alongside economic and health challenges.
 * **Strong Positive Correlations with Happiness:** Social Support, Freedom of Choice.
 * **Positive Correlation with Happiness:** Healthy Life Expectancy, GDP per Capita (with diminishing returns), Education Level (context-dependent).
 * **Strong Negative Correlation with Happiness:** Corruption Perception.
 * **Weak Correlation with Happiness:** Generosity (reflecting cultural variations).
-* **Outliers:** Costa Rica demonstrates high happiness despite moderate GDP, attributed to strong social support and freedom. Conversely, Qatar shows lower happiness despite high GDP, linked to weaker social support and freedom.
+* **Outliers:** Costa Rica demonstrates high happiness despite moderate GDP, attributed to strong social support and freedom. Conversely, despite a high GDP, Qatar shows lower happiness, linked to weaker social support and freedom.
 * **Key Insight:** Social support, freedom, and low corruption are often more critical drivers of happiness than wealth alone.
 
 ### X (Twitter) Sentiment Analysis:
